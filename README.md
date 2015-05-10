@@ -1,0 +1,2 @@
+# DuplicateFile4iTunes
+SONYのContent Transferを使用するための自分用のスクリプト
